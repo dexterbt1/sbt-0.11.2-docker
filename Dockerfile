@@ -9,3 +9,4 @@ ADD sbt-launch.jar /usr/bin/
 
 RUN /usr/bin/sbt
 
+ADD scala /usr/bin/
